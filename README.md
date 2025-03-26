@@ -26,7 +26,11 @@ Technologies Used
 Python: For preprocessing the JSON data and splitting it into manageable chunks.
 
 Amazon S3: For cloud storage of the processed JSON files.
+
 Snowflake: For data warehousing, flattening JSON data, and running SQL queries.
+
 UDF (User-Defined Function): For sentiment analysis on review data.
+
 SQL: For querying and analyzing the transformed data.
+
 This setup efficiently handles large-scale data processing, storage, and analysis while leveraging cloud-based tools for scalability.
